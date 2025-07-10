@@ -2,8 +2,8 @@
 This project performs a comprehensive analysis of retail sales data using SQL, Python (Pandas), and Jupyter Notebooks. It aims to uncover key business insights and improve decision-making based on data-driven metrics.
 
 project structure 
-
-<table border="1" cellpadding="8" cellspacing="0">
+<div>
+<table>
   <thead>
     <tr>
       <th>Path</th>
@@ -50,6 +50,9 @@ project structure
   </tbody>
 </table>
 
+</div>
+
+
 
 🔍 Objective
 Understand sales trends across different categories
@@ -57,12 +60,16 @@ Identify top-selling products and regions
 Track KPIs like total sales, revenue, and customer segments
 Visualize results using plots and dashboards (if applicable)
 
+
+
 🛠️ Tools & Technologies Used
 Python (Pandas, Matplotlib, Seaborn)
 Jupyter Notebook
 SQL (for querying structured data)
 Git & GitHub (for version control)
 Optional: Power BI / Tableau for data visualization (if included)
+
+
 
 📌 Features
 Data cleaning and preprocessing
@@ -81,13 +88,15 @@ pip installl pandas matplotlib seanborn
 3.open jupyter notebook 
 jupyter notebook notebook/Analysis.ipynb
 
+
+
 📈 Sample Insights (Optional)
 "west side of the usa have highet sales"
 "Product category 'Technology' has the highest sales ."
 "Ship mode mostly use standard because that is cheap instead of same day and second class"
 "Company needs to focus to make the technology projects because it has highest sales "
 
-This is link i uploaded my presentation about the this project 
+This is link i uploaded presentation of this project
 
-<a href = 'https://drive.google.com/file/d/1gGyJUVq5Lrspj7tjT9aaiamaOrTmpoD9/view?usp=drive_link'> Click here to see my presentation </a>
+<a href = 'https://drive.google.com/file/d/1gGyJUVq5Lrspj7tjT9aaiamaOrTmpoD9/view?usp=drive_link'> Click here to see Project Presentation </a>
 
