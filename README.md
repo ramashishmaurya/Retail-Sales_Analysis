@@ -1,4 +1,4 @@
-<h1>📊 Retail Sales Analysis<h1/>
+📊 Retail Sales Analysis
 This project performs a comprehensive analysis of retail sales data using SQL, Python (Pandas), and Jupyter Notebooks. It aims to uncover key business insights and improve decision-making based on data-driven metrics.
 
 project structure 
