@@ -19,7 +19,7 @@ This project performs a **comprehensive analysis of retail sales data** using **
 - **Jupyter Notebook**
 - **SQL** (for querying structured data)
 - **Git & GitHub** (version control)
-- *(Optional)* Power BI / Tableau for visual dashboards
+-  Power BI / Tableau for visual dashboards
 
 ---
 
@@ -39,9 +39,6 @@ jupyter notebook notebook/Analysis.ipynb
 
 # Project Presentation
 
-<a href ='https://drive.google.com/file/d/1gGyJUVq5Lrspj7tjT9aaiamaOrTmpoD9/view?usp=sharing'> Click here to view the project presentation <a/>
+[ Click here to view the project presentation](https://drive.google.com/file/d/1gGyJUVq5Lrspj7tjT9aaiamaOrTmpoD9/view?usp=sharing)
 
-<a href="https://drive.google.com/file/d/1gGyJUVq5Lrspj7tjT9aaiamaOrTmpoD9/view?usp=sharing">
-  Click here to view the project presentation
-</a>
 
