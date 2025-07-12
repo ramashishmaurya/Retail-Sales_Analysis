@@ -35,11 +35,11 @@ pip install pandas matplotlib seaborn
 # 3. Open the Jupyter Notebook
 jupyter notebook notebook/Analysis.ipynb
 
-----
+---
 
-# Project Presentation
+## Project Presentation
 
-<a href="https://drive.google.com/file/d/1gGyJUVq5Lrspj7tjT9aaiamaOrTmpoD9/view?usp=sharing" target="_blank">
-   Click here to view the project presentation
-</a>
+[📽️ Click here to view the project presentation](https://drive.google.com/file/d/1gGyJUVq5Lrspj7tjT9aaiamaOrTmpoD9/view?usp=sharing)
+
+
 
