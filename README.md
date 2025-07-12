@@ -47,7 +47,6 @@ pip install pandas matplotlib seaborn
 
 # 3. Open the Jupyter Notebook
 jupyter notebook notebook/Analysis.ipynb
-```  <!-- 👈 this was missing! -->
 
 ---
 
