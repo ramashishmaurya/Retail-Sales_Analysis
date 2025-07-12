@@ -36,10 +36,25 @@ pip install pandas matplotlib seaborn
 jupyter notebook notebook/Analysis.ipynb
 
 ---
+## 🚀 How to Run This Project
 
-## Project Presentation
+```bash
+# 1. Clone this repository
+git clone https://github.com/ramashishmaurya/Retail-Sales_Analysis.git
+
+# 2. Install required libraries
+pip install pandas matplotlib seaborn
+
+# 3. Open the Jupyter Notebook
+jupyter notebook notebook/Analysis.ipynb
+```  <!-- 👈 this was missing! -->
+
+---
+
+## 🎥 Project Presentation
 
 [📽️ Click here to view the project presentation](https://drive.google.com/file/d/1gGyJUVq5Lrspj7tjT9aaiamaOrTmpoD9/view?usp=sharing)
+
 
 
 
