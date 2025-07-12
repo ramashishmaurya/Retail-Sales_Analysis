@@ -39,6 +39,7 @@ jupyter notebook notebook/Analysis.ipynb
 
 # Project Presentation
 
-[ Click here to view the project presentation](https://drive.google.com/file/d/1gGyJUVq5Lrspj7tjT9aaiamaOrTmpoD9/view?usp=sharing)
-
+<a href="https://drive.google.com/file/d/1gGyJUVq5Lrspj7tjT9aaiamaOrTmpoD9/view?usp=sharing" target="_blank">
+   Click here to view the project presentation
+</a>
 
